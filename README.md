@@ -1,4 +1,4 @@
-In the following sources we are dealing with a problem, which is known as The Single Lane Bridge. In this problem,
+In the program we are dealing with a problem, which is known as The Single Lane Bridge. In this problem,
 we have Threads that are represented as Red and Blue cars and they are coming from both sides of a bridge and they want to cross it. The main issue
 is that only one car at a time is able to cross the bridge. In this essay we developt four different scenarios, that have to 
 do with the way that the cars (Threads) are passing the bridge. 
@@ -178,5 +178,5 @@ will go first, based on the total amount of cars for each type.
 
 
 Other solutions that I used as an inspiration:
-1)https://stackoverflow.com/questions/46579280/crossing-single-lane-bridge-with-pairs-of-threads-java-semaphore (stackoverflow code)
-2)https://www.doc.ic.ac.uk/~jnm/book/book_applets/SingleLaneBridge.html (Imerial College code)
+1)https://stackoverflow.com/questions/46579280/crossing-single-lane-bridge-with-pairs-of-threads-java-semaphore 
+2)https://www.doc.ic.ac.uk/~jnm/book/book_applets/SingleLaneBridge.html 
