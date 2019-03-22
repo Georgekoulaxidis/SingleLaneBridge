@@ -1,6 +1,4 @@
-In the program we are dealing with a problem, which is known as The Single Lane Bridge. In this problem,
-we have Threads that are represented as Red and Blue cars and they are coming from both sides of a bridge and they want to cross it. The main issue
-is that only one car at a time is able to cross the bridge. In this essay we developt four different scenarios, that have to 
+In the program we are dealing with a problem, which is known as The Single Lane Bridge. In this problem, we have Threads that are represented as Red and Blue cars and they are coming from both sides of a bridge which they want to cross it. The main issue is that only one car at a time is able to cross the bridge. In this essay we developt four different scenarios, that have to 
 do with the way that the cars (Threads) are passing the bridge. 
 
 
